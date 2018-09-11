@@ -1,5 +1,5 @@
 # menu_con_funciones
-ciclo_do_while_en_java_Y_funciones
+ciclo_do_while_en_java_Y_funciones_switch
 import java.util.Scanner;
 public class Main {
 	public static void main (String [] argumentos) {
